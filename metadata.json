@@ -1,0 +1,6 @@
+{
+  "name": "RupeeLedger",
+  "description": "Offline-first native Android personal finance manager for tracking INR accounts, transactions, budgets, savings goals, recurring bills, and personal debts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

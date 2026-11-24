@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RupeeLedger</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_gold">Gold</string>
+    <string name="nav_more">More</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_planning">Planning</string>
+    <string name="nav_stocks">Stocks</string>
+    <string name="notification_channel_reminders_name">Bills &amp; Budget Reminders</string>
+    <string name="notification_channel_reminders_desc">Local alerts for upcoming recurring bills and budget limits</string>
+    <string name="biometric_unlock_title">Unlock RupeeLedger</string>
+    <string name="biometric_unlock_subtitle">Verify your identity to access your finances</string>
+</resources>
